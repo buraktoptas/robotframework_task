@@ -2,4 +2,4 @@
 Robot Framework task Navisio
 
 
-.Comments are in robot file.
+Comments are in robot file.
