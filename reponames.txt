@@ -1,0 +1,37 @@
+robotframework_task Private
+Robot Framework task Navisio
+MIT License Updated 5 minutes ago
+Star
+us_economic_data_analysis
+Analyzing US Economic Data and Building a Dashboard
+Jupyter Notebook MIT License Updated 14 days ago
+Star
+libraryproject
+Basic Library Project
+Java MIT License Updated 15 days ago
+Star
+shoppingtask
+Shopping program
+Java MIT License Updated 15 days ago
+Star
+bookstore
+Basic Bookstore Project
+Java MIT License Updated 15 days ago
+Star
+buraksrepository
+Updated 15 days ago
+Star
+fakenewsanalyze
+Fake news analyzing and classification program
+Jupyter Notebook MIT License Updated 15 days ago
+Star
+detailed_data_analysis_shop
+Detailed data analysis of an e-commerce company based in the UK
+Jupyter Notebook MIT License Updated 15 days ago
+Star
+denemelikprivate Private
+Updated 16 days ago
+Star
+TransportAI
+MIT License Updated 16 days ago
+Star
